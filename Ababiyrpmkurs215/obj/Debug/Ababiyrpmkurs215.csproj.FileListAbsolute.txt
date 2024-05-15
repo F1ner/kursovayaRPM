@@ -1,0 +1,7 @@
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.csproj.AssemblyReference.cache
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.csproj.CoreCompileInputs.cache
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.exe.config
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.exe
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.pdb
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.exe
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.pdb
