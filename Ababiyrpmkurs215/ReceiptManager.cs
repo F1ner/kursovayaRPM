@@ -10,19 +10,32 @@ namespace Ababiyrpmkurs215
 {
     class ReceiptManager
     {
-        private List<Transaction> transactions;
-        string filePath = @"D:\AbabiyKursRpm2024\bin\Debug\receipt.bin";
+        private List<Transaction> transactions = new List<Transaction>();
+        string filePath = @"C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\Ababiyrpmkurs215\bin\Debug\receipt.bin";
         public void AddTransaction()
         {
-            // LoadFromFile();
-            Console.Write("Введите имя оператора: ");
-            string currentOperator = Console.ReadLine();
-            Console.Write("Введите номер телефона: ");
-            string phoneNumber = Console.ReadLine();
-            Console.Write("Введите сумму наличных: ");
-            decimal amount = decimal.Parse(Console.ReadLine());
-            transactions.Add(new Transaction(currentOperator, phoneNumber, amount));
-            SaveToFile();
+            try
+            {
+                
+                Console.Write("Введите имя оператора: ");
+                string currentOperator = Console.ReadLine();
+                Console.Write("Введите номер телефона: ");
+                int phoneNumber =Convert.ToInt32(Console.ReadLine());
+                Console.Write("Введите сумму наличных: ");
+                decimal amount = decimal.Parse(Console.ReadLine());
+                transactions.Add(new Transaction(currentOperator, phoneNumber, amount));
+                
+
+                SaveToFile();
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);AddTransaction();
+            }
+            finally { 
+            LoadFromFile();
+                }
+           
         }
 
         public void Delete()
@@ -61,7 +74,7 @@ namespace Ababiyrpmkurs215
             }
             else
             {
-                Console.WriteLine("File not found.");
+                Console.WriteLine("Файл не найден.");
             }
         }
     }

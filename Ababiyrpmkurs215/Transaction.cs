@@ -10,10 +10,10 @@ namespace Ababiyrpmkurs215
     class Transaction
     {
         public string OperatorName { get; set; }
-        public string PhoneNumber { get; set; }
+        public int PhoneNumber { get; set; }
         public decimal Amount { get; set; }
         public Transaction() { }
-        public Transaction(string operatorName, string phoneNumber, decimal amount)
+        public Transaction(string operatorName, int phoneNumber, decimal amount)
         {
             OperatorName = operatorName;
             PhoneNumber = phoneNumber;
