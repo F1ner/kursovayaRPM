@@ -1,7 +1,0 @@
-D:\KursovayaAbabiy215\bin\Debug\KursovayaAbabiy215.exe.config
-D:\KursovayaAbabiy215\bin\Debug\KursovayaAbabiy215.exe
-D:\KursovayaAbabiy215\bin\Debug\KursovayaAbabiy215.pdb
-D:\KursovayaAbabiy215\obj\Debug\KursovayaAbabiy215.csproj.AssemblyReference.cache
-D:\KursovayaAbabiy215\obj\Debug\KursovayaAbabiy215.csproj.CoreCompileInputs.cache
-D:\KursovayaAbabiy215\obj\Debug\KursovayaAbabiy215.exe
-D:\KursovayaAbabiy215\obj\Debug\KursovayaAbabiy215.pdb
