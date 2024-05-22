@@ -1,0 +1,21 @@
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.csproj.AssemblyReference.cache
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.csproj.CoreCompileInputs.cache
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.exe.config
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.exe
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.pdb
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.exe
+D:\ЛБ Абабий Ривилис\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.pdb
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.exe.config
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.exe
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.pdb
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.exe
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.pdb
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\kursovayaRPM-main\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\kursovayaRPM-main\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\kursovayaRPM-main\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.exe
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\kursovayaRPM-main\Ababiyrpmkurs215\obj\Debug\Ababiyrpmkurs215.pdb
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\kursovayaRPM-main\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.exe.config
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\kursovayaRPM-main\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.exe
+C:\Users\Kab-35-6\Desktop\kursovayaRPM-main\kursovayaRPM-main\Ababiyrpmkurs215\bin\Debug\Ababiyrpmkurs215.pdb
